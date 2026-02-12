@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ベイビー・アイラブユー",
+  "base_artist": "TEE",
+  "createdAt": "2026-02-12T14:41:43.584665Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー - Baby I Love You",
+      "artist": "TEE",
+      "has_synced": true,
+      "path": "select/01_ベイビー・アイラブユー_-_Baby_I_Love_You_TEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー",
+      "artist": "ＴＥＥ",
+      "has_synced": true,
+      "path": "select/02_ベイビー・アイラブユー_TEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー",
+      "artist": "TEE",
+      "has_synced": false,
+      "path": "select/03_ベイビー・アイラブユー_TEE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シェネル（Che’Nelle） - ベイビー・アイラブユー (English Ver.) [Official Video]",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/04_シェネル(Che’Nelle)_-_ベイビー・アイラブユー_(English_Ver.)_[Official_Video]_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ベイビー・アイラブユー - English Ver.",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/05_ベイビー・アイラブユー_-_English_Ver._Che'Nelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベイビー・アイラブユー",
+      "artist": "TEE",
+      "has_synced": false,
+      "path": "select/pl_01_ベイビー・アイラブユー_TEE.txt"
+    }
+  ]
+}
